@@ -77,6 +77,6 @@ The project is deployed on **Vercel**. Any updates pushed to the main branch wil
 
 ## Contributors
 
-- **Developer**: [Your Name]
+- **Developer**: Naitik Shah
 
 Feel free to contribute and improve the project!
